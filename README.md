@@ -5,6 +5,7 @@ O sistema foi desenvolvido usando ReactJS e consome a API pública Chuck Norris 
 
 Funcionalidades----------------------------------------------------------------------------------
 
+
 Geração de Piadas Aleatórias: O sistema permite aos usuários clicarem em um botão para gerar uma nova piada aleatória sobre Chuck Norris.
 
 Exibição da Piada: Após gerar uma piada, ela é exibida na tela junto com uma imagem do Chuck Norris.
@@ -12,9 +13,11 @@ Interface Amigável: A interface do usuário é simples e intuitiva, permitindo 
 
 
 Pré-requisitos-------------------------------------------------------------------------
+
 Antes de executar o sistema, você precisa ter o Node.js instalado em sua máquina.
 
 Como Executar---------------------------------------------------------------------------
+
 1 Clone o repositório do sistema para sua máquina local.
 2 Abra o terminal e navegue até o diretório raiz do projeto.
 3 Execute npm install para instalar todas as dependências do projeto.
