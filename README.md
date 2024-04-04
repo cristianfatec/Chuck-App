@@ -1,3 +1,12 @@
+## Como rodar o projeto?
+
+Após baixar o projeto, acesse ele via seu terminal rode os comandos:
+
+```sh
+npm install
+npm start
+```
+
 Sistema de Geração de Piadas do Chuck Norris
 
 O Sistema de Geração de Piadas do Chuck Norris é uma aplicação web simples que permite aos usuários obterem piadas aleatórias sobre Chuck Norris. 
