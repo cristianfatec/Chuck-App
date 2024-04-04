@@ -1,0 +1,47 @@
+/* App.css */
+
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+/* Estilos para a imagem */
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px; /* Espaçamento entre a imagem e o texto */
+}
+
+/* Estilos para o texto */
+p {
+  margin-bottom: 20px; /* Espaçamento entre os parágrafos */
+}
+
+/* Estilos para o botão */
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
